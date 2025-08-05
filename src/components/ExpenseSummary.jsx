@@ -1,5 +1,5 @@
 import React from 'react'
-import { useExpenses } from '../context/Expensecontext'
+import { useExpenses } from '../context/ExpenseContext'
 import { formatCurrency, getExpensesbyCategory, getTotalExpenses } from '../utils/expenses';
 import { TrendingDown, TrendingUp, Wallet } from 'lucide-react';
 
