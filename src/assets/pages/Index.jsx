@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExpenseProvider } from '../../context/Expensecontext';
+import { ExpenseProvider } from '../../context/ExpenseContext';
 import DashboardLayout from '../../layouts/DashboardLayout';
 import Dashboard from '../../components/Dashboard';
 
