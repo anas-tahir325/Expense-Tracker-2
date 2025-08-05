@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { useExpenses } from '../context/Expensecontext'
+import { useExpenses } from '../context/ExpenseContext'
 import toast from 'react-hot-toast';
 
 const ExpenseForm = () => {
